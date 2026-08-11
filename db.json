@@ -1,0 +1,85 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Fix Login Authentication",
+      "description": "Users cannot log in with valid credentials.",
+      "status": "todo",
+      "priority": "high",
+      "assignee": "John",
+      "dueDate": "2026-08-15"
+    },
+    {
+      "id": "2",
+      "title": "Design User Profile Page",
+      "description": "Create the user profile interface with user details and account settings.",
+      "status": "done",
+      "priority": "medium",
+      "assignee": "Emma",
+      "dueDate": "2026-08-12"
+    },
+    {
+      "id": "3",
+      "title": "Implement Dashboard Layout",
+      "description": "Build the main dashboard layout with navigation, summary cards, and ticket information.",
+      "status": "done",
+      "priority": "high",
+      "assignee": "Sarah",
+      "dueDate": "2026-08-20"
+    },
+    {
+      "id": "4",
+      "title": "Integrate Product API",
+      "description": "Connect the frontend to the product API and display product data.",
+      "status": "in-progress",
+      "priority": "low",
+      "assignee": "David",
+      "dueDate": "2026-08-10"
+    },
+    {
+      "id": "5",
+      "title": "Fix Mobile Navigation",
+      "description": "Resolve responsive navigation issues on mobile and tablet screen sizes.",
+      "status": "done",
+      "priority": "medium",
+      "assignee": "Mike",
+      "dueDate": "2026-08-18"
+    },
+    {
+      "id": "6",
+      "title": "Implement User Registration",
+      "description": "Create the user registration flow with form validation and account creation.",
+      "status": "in-progress",
+      "priority": "high",
+      "assignee": "John",
+      "dueDate": "2026-08-16"
+    },
+    {
+      "id": "7",
+      "title": "Update Password Reset Flow",
+      "description": "Improve the password reset process and add proper validation for reset requests.",
+      "status": "todo",
+      "priority": "medium",
+      "assignee": "Emma",
+      "dueDate": "2026-08-19"
+    },
+    {
+      "id": "8",
+      "title": "Optimize Dashboard Performance",
+      "description": "Improve dashboard loading speed and reduce unnecessary API requests.",
+      "status": "in-progress",
+      "priority": "high",
+      "assignee": "Sarah",
+      "dueDate": "2026-08-21"
+    },
+    {
+      "id": "9",
+      "title": "Add User Notification System",
+      "description": "Implement notifications for important account and ticket updates.",
+      "status": "done",
+      "priority": "medium",
+      "assignee": "Mike",
+      "dueDate": "2026-08-22"
+    }
+  ]
+}
